@@ -1,0 +1,42 @@
+{
+  "utt_0101": [
+    {
+      "start": 12,
+      "end": 30,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 69,
+      "end": 88,
+      "label": "CREDIT_CARD",
+      "pii": true
+    }
+  ],
+  "utt_0102": [
+    {
+      "start": 13,
+      "end": 15,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 15,
+      "end": 20,
+      "label": "CREDIT_CARD",
+      "pii": true
+    },
+    {
+      "start": 20,
+      "end": 23,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 70,
+      "end": 80,
+      "label": "PHONE",
+      "pii": true
+    }
+  ]
+}
