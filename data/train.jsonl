@@ -1,0 +1,2 @@
+{"id": "utt_0001", "text": "my credit card number is 4242 4242 4242 4242 and my email is ramesh dot sharma at gmail dot com", "entities": [{"start": 26, "end": 49, "label": "CREDIT_CARD"}, {"start": 66, "end": 80, "label": "PERSON_NAME"}, {"start": 84, "end": 104, "label": "EMAIL"}]}
+{"id": "utt_0002", "text": "call me on nine eight seven six five four three two one zero i live in chennai", "entities": [{"start": 11, "end": 63, "label": "PHONE"}, {"start": 75, "end": 82, "label": "CITY"}]}
